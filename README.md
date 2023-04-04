@@ -1,4 +1,4 @@
 # hello-world
 
 
-console.log("PASTA TESTE");
+(PASTA TESTE)
